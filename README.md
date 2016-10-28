@@ -18,6 +18,10 @@ __2016-10-25__ • The data and cross-tabulations in this repository have been u
 
 > Right Wing News received a median of 91 shares on its mostly true posts, and its other posts had a median of 568 shares. We originally said it had a median of 87 shares on its mostly true posts, and its other posts had a median of 521 shares. The data for Right Wing News was recalculated after we realized we had incorrectly rated three posts from that page. One post was rated mostly false that was in fact a mixture of true and false; one was rated mostly false that actually had no factual content; and one was rated mostly false that was in fact mostly true. The graphics in this story were also updated to reflect the corrected Right Wing News totals.
 
+__2016-10-28__ • The data and cross-tabulations in this repository have been updated to reflect the following correction to the article:
+
+> We subsequently corrected a fourth post from mostly false to a mixture of true and false. The graphics in this story were also updated to reflect the corrected Right Wing News totals.
+
 ## Questions / Comments?
 
 Please contact Jeremy Singer-Vine at jeremy.singer-vine@buzzfeed.com.
